@@ -191,7 +191,7 @@ ________________________________________
 ▶️ How to Run This Project
 # Clone the repository
 
-https://github.com/rishiraj-anand/hotel-booking-business-analysis-numpy/blob/main/Hotel_booking_analysis.py
+ git clone https://github.com/rishiraj-anand/hotel-booking-business-analysis-numpy.git
 # Navigate to the project folder
 
 cd hotel-booking-business-analysis-numpy
@@ -201,8 +201,7 @@ cd hotel-booking-business-analysis-numpy
 pip install numpy
 
 # Run the project
-
-python hotel_booking_analysis.py
+ Hotel_booking_analysis.py
 ________________________________________
 📁 Repository Structure
 Hotel-Booking-Analytics/
