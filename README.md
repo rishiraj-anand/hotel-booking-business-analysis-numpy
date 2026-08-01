@@ -191,11 +191,10 @@ ________________________________________
 ▶️ How to Run This Project
 # Clone the repository
 
-git clone https://github.com/yourusername/Hotel-Booking-Analytics.git
-
+https://github.com/rishiraj-anand/hotel-booking-business-analysis-numpy/blob/main/Hotel_booking_analysis.py
 # Navigate to the project folder
 
-cd Hotel-Booking-Analytics
+cd hotel-booking-business-analysis-numpy
 
 # Install NumPy
 
